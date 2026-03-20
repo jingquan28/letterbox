@@ -3,5 +3,7 @@ layout: home
 title: Home
 ---
 
-Welcome to my blog 👋  
-I’m working in Japan and learning Japanese.
+Welcome to Letterbox 👋 
+ 
+Inspiration from,
+"We write to taste life twice"
